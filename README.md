@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+![React](https://img.shields.io/badge/React-%2300D9FF.svg?style=for-the-badge&logo=react&logoColor=white)
+![NextJS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+
+
 <!--
 **ExauceAk/ExauceAk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
