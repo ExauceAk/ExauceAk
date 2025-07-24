@@ -8,11 +8,11 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 
 ## 📊 Stats
-![ExoAk's GitHub stats](https://github-readme-stats.vercel.app/api?username=ExoAk&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ExoAk&layout=compact)
+![ExauceAk's GitHub stats](https://github-readme-stats.vercel.app/api?username=ExauceAk&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ExauceAk&layout=compact)
 
 ## 🏆 Trophées
-[![trophy](https://github-profile-trophy.vercel.app/?username=ExoAk)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ExauceAk)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📫 Me Contacter
 - ✉️ email@exemple.com
